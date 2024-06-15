@@ -57,3 +57,6 @@ Inventory value: $19.02 M
 Inventory turnover ratio: 1.37
 Count of varieties: 8
 Count of products: 16
+
+## Snap Shot of Power BI Service Dashboard
+![image](https://github.com/rafic-salesh/Power-BI/assets/172884667/add36420-4b27-4ec4-9010-2194834af394)
